@@ -14,6 +14,8 @@ Contribute to this repository by following these steps:
 - Now stage and commit the files using `git add .`; `git commit -m "message"`.
 - Push these changes to your forked repo using `git push origin branchName`.
 - In your forked repo, click on a green button called "Compare & pull request".
-- Now sit back and wait patiently for me to merge your pull request!
+- Now sit back and waitnibjn patiently for me to merge your pull request!
 - As soon as all your group members add their codes, edit the README.md file in your group folder to add the code word.
 - Make a pull request again and you WIN!
+hello world all
+
